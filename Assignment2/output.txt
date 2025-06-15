@@ -1,0 +1,94 @@
+PS E:\celebal_csi\Assignment2> python singly_linked_list.py
+Enter the size of the linked list: 4
+Enter value 1: 2
+Enter value 2: 3
+Enter value 3: 6
+Enter value 4: 8
+Initial list:
+2 -> 3 -> 6 -> 8
+
+Options:
+1. Add at end
+2. Delete nth node
+3. Print list
+4. Exit
+Enter your choice: 2
+Enter position to delete (1-based index): 1
+Updated list:
+3 -> 6 -> 8
+
+Options:
+1. Add at end
+2. Delete nth node
+3. Print list
+4. Exit
+Enter your choice: 1
+Enter value to add at end: 9
+Updated list:
+3 -> 6 -> 8 -> 9
+
+Options:
+1. Add at end
+2. Delete nth node
+3. Print list
+4. Exit
+Enter your choice: 2
+Enter position to delete (1-based index): 1
+Updated list:
+6 -> 8 -> 9
+
+Options:
+1. Add at end
+2. Delete nth node
+3. Print list
+4. Exit
+Enter your choice: 2
+Enter position to delete (1-based index): 1
+Updated list:
+8 -> 9
+
+Options:
+1. Add at end
+2. Delete nth node
+3. Print list
+4. Exit
+Enter your choice: 2
+Enter position to delete (1-based index): 1
+Updated list:
+9
+
+Options:
+1. Add at end
+2. Delete nth node
+3. Print list
+4. Exit
+Enter your choice: 2
+Enter position to delete (1-based index): 1
+Updated list:
+List is empty.
+
+Options:
+1. Add at end
+2. Delete nth node
+3. Print list
+4. Exit
+Enter your choice: 2
+Enter position to delete (1-based index): 1
+Error: Cannot delete from an empty list.
+
+Options:
+1. Add at end
+2. Delete nth node
+3. Print list
+4. Exit
+Enter your choice: 3
+List is empty.
+
+Options:
+1. Add at end
+2. Delete nth node
+3. Print list
+4. Exit
+Enter your choice: 4
+Exiting.
+PS E:\celebal_csi\Assignment2> 
